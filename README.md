@@ -4,4 +4,4 @@ Simple Arduino code run on esp32 to demonstrate the control a Sphero Ollie. Comm
 
 Acknowledgements to Jordan Majd, jchadwhite and https://wiki.mark-toma.com/view/Sphero_API_Tutorial. Hope I haven't missed anybody out.
 
-
+2nd ino file connects 4 Ollies
